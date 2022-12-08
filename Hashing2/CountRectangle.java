@@ -42,6 +42,7 @@ public class CountRectangle {
 
             }
         }
+        //actually we are counting same rectangle 2 times
         return ans/2;
     }
 
