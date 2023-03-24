@@ -54,6 +54,7 @@ public class SpellingChecker {
                 return false;
             }
         }
+        //this will return
         return root.isEnd;
     }
     public static void main(String[] args) {
